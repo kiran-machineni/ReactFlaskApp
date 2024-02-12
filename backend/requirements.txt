@@ -1,0 +1,7 @@
+Flask>=2.0
+Flask-SQLAlchemy>=3.0
+asyncpg>=0.24.0
+greenlet>=1.1.0
+psycopg2-binary==2.9.9
+Werkzeug==2.2.2
+flask_cors>=3.1.1
